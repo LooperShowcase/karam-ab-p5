@@ -14,8 +14,6 @@ function draw() {
 
   translate(width / 2, height / 2);
   rotate(-90);
-  stroke("red");
- text("emporio Armani" 0,20,0,3)
   ellipse(0, 0, 300);
   //sec
   fill(255);
